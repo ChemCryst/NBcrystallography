@@ -1,0 +1,5 @@
+name: NBcryst
+dependencies:
+  - matplotlib
+  - numpy  
+  - pandas
